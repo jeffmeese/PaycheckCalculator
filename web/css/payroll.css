@@ -1,0 +1,25 @@
+
+body { font-family: Times New Roman, sans-serif; margin: 0 auto; }
+form { margin: 0 0 0 10px; padding: 0; border-top: solid gray 1px; width: 500px; }
+label, input, select { display: inline-block; padding: 0; margin: 4px 5px 0 5px; }
+select { width: 194px; }
+input[type=text], input[type=date] { width: 190px; }
+input[type=button] { padding: 2px; }
+label { display: inline-block; float: left; clear: left; text-align: left; width: 250px; }
+table { width: 100%; border-collapse: collapse; border: 1px solid gray; }
+table td { border: 1px solid gray; }
+
+.deduction { margin-bottom: 10px; }
+.deductionButton { width: 40%; margin: 10px; padding: 0; }
+.deductionButtonField { margin: 0 auto; text-align: center; }
+.payrollSection { padding-bottom: 5px; border: solid gray 1px; border-top: none; background-color: #fff; }
+.payrollSection h3 { margin: 0; padding: 5px; border-bottom: solid gray 1px; font-size: 14px; background: #98bbf8; text-align: left; }
+.submitButtonArea {  margin: 0 auto; text-align: center; }
+.submitButtonArea input { padding: 2px; width: 100px; width: 45%;  }
+
+#paycheckInputs { width: 520px; float: left; font-size: 90%;}
+#paycheckResults { width: 300px; float: left; margin-left: 10px; font-size: 90%;}
+#paycheckResults tr:nth-child(odd) {background: #98bbf8;}
+#paycheckResults tr:nth-child(even) {background: white;}
+#paycheckResults td { text-align: right; }
+#paycheckResults .label { text-align: left; font-weight: bold; }

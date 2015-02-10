@@ -1,0 +1,8 @@
+<div class="formField">
+  <label for="stateAllowances">Total Allowances</label>
+  <input type="text" name="stateAllowances" id="stateAllowances" />
+</div>
+<div class="formField">
+  <label for="addStateWithholding">Additional State Withholding: </label>
+  <input type="text" name="addStateWithholding" id="addStateWithholding" />
+</div>

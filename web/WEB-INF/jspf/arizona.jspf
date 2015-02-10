@@ -1,0 +1,9 @@
+<div class="formField">
+  <label for="addStateWithholding">Additional State Withholding: </label>
+  <input type="text" name="addStateWithholding" id="addStateWithholding" />
+</div>
+<div class="formField">
+  <label for="stateAllowances">State Elected Percentage Rate</label>
+  <input type="text" name="stateRate" id="stateRate" />
+</div>
+
